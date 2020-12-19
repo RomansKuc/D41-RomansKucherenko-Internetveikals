@@ -1,19 +1,19 @@
 # D41-RomansKucherenko-Internetveikals
 
-#  drizz viss buss
+#  ((drīz viss būs))
 
-- Projekta nosaukums:
-
-
-- Projekta apraksts:
+# - Projekta nosaukums:
 
 
-- Izmantotās tehnoloģijas:
+# - Projekta apraksts:
 
 
-- Izmantotie avoti:
+# - Izmantotās tehnoloģijas:
 
 
-- Uzstādīšanas instrukcijas:
+# - Izmantotie avoti:
+
+
+# - Uzstādīšanas instrukcijas:
 
 
