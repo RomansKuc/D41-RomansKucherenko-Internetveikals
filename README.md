@@ -1,4 +1,4 @@
-# D41-RomansKucherenko-Internetveikals 
+# D41-RomansKucherenko-Internetveikals ( http://tirgusss.com/ )
 #
 # - Projekta nosaukums:
    "System vector"
