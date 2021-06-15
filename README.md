@@ -1,20 +1,20 @@
 # D41-RomansKucherenko-Internetveikals 
-
+#
 # - Projekta nosaukums:
- #   "System vector"
+   "System vector"
 
 # - Projekta apraksts:
- #   Kvalifikācijas darba posma bija izveidota tirdzniecības sistēma, līdzīga ss.com vietnei.
-  #  Tas ir vietne, kur lietotāji var veidot savus sludinājumus, un apskatīt citu lietotāju sludinājumus. 
-   # Lietotāji var apskatīt dažādus sludinājumus, atstāt komentārus noteiktos sludinājumus, lai viegli atrast tos pēc tam. 
+   Kvalifikācijas darba posma bija izveidota tirdzniecības sistēma, līdzīga ss.com vietnei.
+   Tas ir vietne, kur lietotāji var veidot savus sludinājumus, un apskatīt citu lietotāju sludinājumus. 
+   Lietotāji var apskatīt dažādus sludinājumus, atstāt komentārus noteiktos sludinājumus, lai viegli atrast tos pēc tam. 
 
 # - Izmantotās tehnoloģijas:
-  # PHP
-  # HTML
-  # CSS
-  # Wordpress
-  # Bluehost
-  # Sharetribe
+   PHP
+   HTML
+   CSS
+   Wordpress
+   Bluehost
+   Sharetribe
   
 # - Izmantotie avoti:
   https://my.bluehost.com/hosting/app#/
@@ -24,6 +24,6 @@
   https://devdocs.io/css/
 
 # - Uzstādīšanas instrukcijas:
-#    Atvert vietni:
+    Atvert vietni:
 http://tirgusss.com/
   
