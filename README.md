@@ -12,6 +12,7 @@
    PHP
    HTML
    CSS
+   JS
    Wordpress
    Bluehost
    Sharetribe
