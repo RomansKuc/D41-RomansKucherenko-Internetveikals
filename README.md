@@ -1,5 +1,7 @@
 # D41-RomansKucherenko-Internetveikals ( http://tirgusss.com/ )
 #
+# UPD Galvena lapa tāgād nestrada, lūdzu izmantot: ( https://tirgusss.sharetribe.com/ )
+#
 # - Projekta nosaukums:
    "System vector"
 
